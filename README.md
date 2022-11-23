@@ -18,8 +18,9 @@ The followings are the main parts of our project:
 6) Challenge, Limitation and Conclusion
 
 Data
-1) Tesla Monthly Revenue (Millions): Average monthly taken from each quarterly revenue. Unit (US$ Millions)
-2) IXIC: Index of Nasdaq Composite
-3) CL: Crude Oil Price. Unit (US$ per barrel)
-4) Vehicle Sales: Number of automobile sold in US yearly.
-5) Household Income / Family Income / Capita Income: use
+1) Tesla Quarterly Revenue (US$ Millions)
+2) Tesla Monthly Revenue (US$ Millions): Average monthly taken from each quarterly revenue. Unit (US$ Millions)
+3) IXIC: Index of Nasdaq Composite 
+4) CL: Crude Oil Price. Unit (US$ per barrel)
+5) Vehicle Sales: Number of automobile sold in US yearly.
+6) Household Income / Family Income / Capita Income: Average househould income, family income and captia income. Unit: ($). Time interval: yearly.
